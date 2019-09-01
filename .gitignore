@@ -5,3 +5,4 @@ nsu_starterpack/nsu_starterpack/nsu_starterpack.vcxproj
 nsu_starterpack/nsu_starterpack.sln
 nsu_starterpack/.vs/nsu_starterpack/v15/Browse.VC.opendb
 nsu_starterpack/.vs/nsu_starterpack/v15/Browse.VC.db
+*.ipch
